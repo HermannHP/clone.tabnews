@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Se você consegue ler, vc faz parte da geração nutela/tiktok de 15 segundos.</h1>;
+    return <h1>Se vc é irmã do Ryan, dê uma risadinha.</h1>;
 }
 
 export default Home;
